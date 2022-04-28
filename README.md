@@ -1,4 +1,4 @@
-**Привет! Меня зовут Александр.**
+**👋 Привет! Меня зовут Александр.**
 - Ищу работу Python-разработчика.
 - Программирую на Python, неплохо читаю и пишу на английском, увлекаюсь историей, по вечерам пятницы строю город в Minecraft.
 - Сейчас продолжаю изучениe языка Python и фреймворка Django, параллельно изучаю фронтенд (HTML/CSS, Bootstrap 5, JS, JQuery).
@@ -6,7 +6,7 @@
 
 
 
-**Hi, I’m Alexander.**
+**👋 Hi, I’m Alexander.**
 - I’m looking for a job as a Python developer.
 - I program in Python, interested in history and on Friday evenings I build a city in the Minecraft.
 - I continue to study the Python language and the Django framework, I also study the frontend development (HTML / CSS, Bootstrap 5, JS, JQuery).
