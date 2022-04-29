@@ -3,6 +3,7 @@
 - Программирую на Python, неплохо читаю и пишу на английском, увлекаюсь историей, по вечерам пятницы строю город в Minecraft.
 - Сейчас продолжаю изучениe языка Python и фреймворка Django, параллельно изучаю фронтенд (HTML/CSS, Bootstrap 5, JS, JQuery).
 - Можете связаться со мной в [телеграмме](https://t.me/alexstrunskiy) или по почте <alexstrunskiy@gmail.com>.
+- Старый аккаунт: [@AlexanderStr777](https://github.com/AlexanderStr777)
 
 
 
