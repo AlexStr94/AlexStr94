@@ -1,16 +1,15 @@
 **👋 Привет! Меня зовут Александр.**
-- Ищу работу Python-разработчика.
+- Python-разработчика, дата-аналитик.
 - Программирую на Python, неплохо читаю и пишу на английском, увлекаюсь историей, по вечерам пятницы строю город в Minecraft.
-- Сейчас продолжаю изучениe языка Python и фреймворка Django, параллельно изучаю фронтенд (HTML/CSS, Bootstrap 5, JS, JQuery).
+- По необходимости программирую на JS. Знаком с VueJs.
+- Знаю JQuery, но предпочитаю Vanilla JS.
 - Можете связаться со мной в [телеграмме](https://t.me/alexstrunskiy) или по почте <alexstrunskiy@gmail.com>.
-- Старый аккаунт: [@AlexanderStr777](https://github.com/AlexanderStr777)
-
-
 
 **👋 Hi, I’m Alexander.**
-- I’m looking for a job as a Python developer.
+- Python developer, data analyst.
 - I program in Python, interested in history and on Friday evenings I build a city in the Minecraft.
-- I continue to study the Python language and the Django framework, I also study the frontend development (HTML / CSS, Bootstrap 5, JS, JQuery).
+- When necessary, I program in JS. Familiar with VueJs.
+- I know JQuery, but I prefer Vanilla JS.
 - You can contact me by e-mail <alexstrunskiy@gmail.com>.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexstr94&layout=compact&hide=css,html)
